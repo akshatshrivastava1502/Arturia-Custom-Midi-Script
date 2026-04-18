@@ -28,6 +28,9 @@ This project is a custom FL Studio MIDI controller script for a hardware device 
 
 This project is already structured like an FL Studio hardware script. Keep the folder inside FL Studio's Hardware scripts location so FL Studio can load it.
 
+Folder path: 
+```Documents/Image-Line/FL Studio/Settings/Hardware/```
+
 ### 2. Open FL Studio MIDI settings
 
 In FL Studio, open Options, then MIDI Settings.
